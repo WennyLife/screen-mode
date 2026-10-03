@@ -7,7 +7,7 @@ $scriptDir = Split-Path -Parent $MyInvocation.MyCommand.Path
 . "$scriptDir\SwitchInput.ps1"
 
 $appVersion = "1.0.0"
-$githubRepo = "lendaii/screen-mode"
+$githubRepo = "WennyLife/screen-mode"
 
 # C# Form with global hotkeys:
 # Ctrl+Alt+1, Ctrl+Alt+2, Win+Alt+1, Win+Alt+2 (Top row and Numpad)

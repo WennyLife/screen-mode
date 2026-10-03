@@ -13,7 +13,7 @@ class AppDelegate: NSObject, NSApplicationDelegate {
     // Repositório GitHub para checar atualizações
     var githubRepo: String {
         get {
-            return defaults.string(forKey: "githubRepo") ?? "lendaii/screen-mode"
+            return defaults.string(forKey: "githubRepo") ?? "WennyLife/screen-mode"
         }
         set {
             defaults.set(newValue, forKey: "githubRepo")

@@ -6,15 +6,15 @@
 
 ### O alternador inteligente de monitores Ultrawide entre Mac e Windows a 155Hz
 
-[![macOS](https://img.shields.io/badge/macOS-12.0+-blue?style=for-the-badge&logo=apple)](https://github.com/)
-[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?style=for-the-badge&logo=windows)](https://github.com/)
-[![Taxa](https://img.shields.io/badge/Refresh%20Rate-155Hz%20Nativo-purple?style=for-the-badge)](https://github.com/)
+[![macOS](https://img.shields.io/badge/macOS-12.0+-blue?style=for-the-badge&logo=apple)](https://github.com/WennyLife/screen-mode)
+[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?style=for-the-badge&logo=windows)](https://github.com/WennyLife/screen-mode)
+[![Taxa](https://img.shields.io/badge/Refresh%20Rate-155Hz%20Nativo-purple?style=for-the-badge)](https://github.com/WennyLife/screen-mode)
 [![License](https://img.shields.io/badge/Licen%C3%A7a-MIT-green?style=for-the-badge)](LICENSE)
-[![Auto-Update](https://img.shields.io/badge/Auto--Update-Integrado-orange?style=for-the-badge)](https://github.com/)
+[![Auto-Update](https://img.shields.io/badge/Auto--Update-Integrado-orange?style=for-the-badge)](https://github.com/WennyLife/screen-mode)
 
 **Alterne instantaneamente entre seu Mac e seu PC Windows com apenas 1 clique ou atalho de teclado global, aproveitando os 155Hz nativos do seu monitor sem precisar de nenhum switch KVM físico!**
 
-[Download macOS (.dmg)](release/SCREEN_MODE_macOS.dmg) • [Download Windows (.zip)](release/SCREEN_MODE_Windows.zip)
+[Download macOS (.dmg)](https://github.com/WennyLife/screen-mode/releases/latest/download/SCREEN_MODE_macOS.dmg) • [Download Windows (.zip)](https://github.com/WennyLife/screen-mode/releases/latest/download/SCREEN_MODE_Windows.zip)
 
 </div>
 
