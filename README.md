@@ -14,7 +14,7 @@
 
 **Alterne instantaneamente entre seu Mac e seu PC Windows com apenas 1 clique ou atalho de teclado global, aproveitando os 155Hz nativos do seu monitor sem precisar de nenhum switch KVM físico!**
 
-[Download macOS (.dmg)](https://github.com/WennyLife/screen-mode/releases/latest/download/SCREEN_MODE_macOS.dmg) • [Download Windows (.zip)](https://github.com/WennyLife/screen-mode/releases/latest/download/SCREEN_MODE_Windows.zip)
+[Download macOS (.dmg)](https://github.com/WennyLife/screen-mode/raw/main/release/SCREEN_MODE_macOS.dmg) • [Download Windows (.zip)](https://github.com/WennyLife/screen-mode/raw/main/release/SCREEN_MODE_Windows.zip)
 
 </div>
 
